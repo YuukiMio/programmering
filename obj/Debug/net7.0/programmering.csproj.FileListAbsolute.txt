@@ -1,0 +1,15 @@
+C:\git\programmering\bin\Debug\net7.0\programmering.exe
+C:\git\programmering\bin\Debug\net7.0\programmering.deps.json
+C:\git\programmering\bin\Debug\net7.0\programmering.runtimeconfig.json
+C:\git\programmering\bin\Debug\net7.0\programmering.dll
+C:\git\programmering\bin\Debug\net7.0\programmering.pdb
+C:\git\programmering\obj\Debug\net7.0\programmering.csproj.AssemblyReference.cache
+C:\git\programmering\obj\Debug\net7.0\programmering.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\programmering\obj\Debug\net7.0\programmering.AssemblyInfoInputs.cache
+C:\git\programmering\obj\Debug\net7.0\programmering.AssemblyInfo.cs
+C:\git\programmering\obj\Debug\net7.0\programmering.csproj.CoreCompileInputs.cache
+C:\git\programmering\obj\Debug\net7.0\programmering.dll
+C:\git\programmering\obj\Debug\net7.0\refint\programmering.dll
+C:\git\programmering\obj\Debug\net7.0\programmering.pdb
+C:\git\programmering\obj\Debug\net7.0\programmering.genruntimeconfig.cache
+C:\git\programmering\obj\Debug\net7.0\ref\programmering.dll
